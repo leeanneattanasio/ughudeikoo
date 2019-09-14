@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aishouweiw.mizzi.nl/sitemap.xml
